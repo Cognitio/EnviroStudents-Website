@@ -1,0 +1,2 @@
+# EnviroStudents-Website
+A website I made to serve as the online presence of the Environmental Community of Hamilton Students(ECHS), a non-profit founded by myself and friends to promote sustainability and advocate for change through concrete action on the environment. The website organizes a portfolio of our initiatives, features a weather system, and includes a calendar planner to organize events.
